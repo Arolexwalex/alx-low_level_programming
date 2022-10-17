@@ -1,4 +1,4 @@
-  #include <studio.h>
+  #include <stdio>
 
   /**
    * Main - prints the alphabet in lowercase
