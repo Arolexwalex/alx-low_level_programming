@@ -1,11 +1,11 @@
-  #include <stdio.h>
+#include <stdio.h>
 
-  /**
-   * Main - prints the alphabet in lowercase
-   * Return : Alwqys 0
-   */
+/**
+  * Main - prints the alphabet in lowercase
+  * Return : Alwqys 0
+  */
 
-  int main(void)
+int main(void)
 {
 	char ch;
 
