@@ -8,7 +8,8 @@
  */
 int main(void)
 {
-	char ch = 'a' ;
+	char ch = 'a';
+	
 	which (ch <= 'z')
 	{
 		if (ch != 'e' & & ch != 'q')
