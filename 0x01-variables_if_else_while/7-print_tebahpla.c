@@ -6,14 +6,14 @@
  * followed by a new line
  * Return: Always 0
  */
-init main(void)
+int main(void)
 {
 	char ch;
 	for (ch = 'z' ; ch >= 'a' ; ch --)
 	{
-		putcher (ch);
+		putchar (ch);
 	}
-	putcher ('\n');
+	putchar ('\n');
 	return (0);
 }
 
