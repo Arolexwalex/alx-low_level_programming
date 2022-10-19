@@ -25,7 +25,7 @@ j = k;
 k = next;
 }
 
-printf(%lun, sum);
+printf("%lu\n", sum);
 
 return (0);
 }
